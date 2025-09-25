@@ -1,6 +1,6 @@
 # Level-2
 
-#Apple Stock Dashboard (2014–2017)
+# Apple Stock Dashboard (2014–2017)
 
 This Power BI dashboard visualizes Apple Inc.'s stock performance over time, focusing on daily closing prices, monthly trading volume, and the latest market value.
 
@@ -17,8 +17,9 @@ This Power BI dashboard visualizes Apple Inc.'s stock performance over time, foc
 - Responsive visuals with tooltips and slicers
 
 ## Insights
-Apple’s stock gained momentum through mid-2017, with trading volumes peaking in June–September and prices reaching their highest in September. 
-Despite a slight dip in Q4, the year closed strong at $169.23, reflecting investor confidence
+In 2017, Apple’s stock showed a strong upward trajectory climbing from around $119 to $169.23 by year-end.
+Trading volume remained steady with peaks in June, August, and September reaching their highest in september
+suggesting sustained investor interest during product cycles and earnings periods.The year closed strong at $169.23 reflecting investor confidence.
 
 ## Tools Used
 - Power BI Desktop  
